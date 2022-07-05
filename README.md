@@ -5,7 +5,7 @@ Lemme introduction
 - ✨ My name is Devin
 - 🏠 I live at Surabaya [Indonesia]
 - 🔭 I’m a student
-- 🎎 Stan Twice
+- 🎎 Twice Stan
 - 😄 Pronouns: He/Him
 ```
 
