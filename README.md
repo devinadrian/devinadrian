@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/devinadrian/devinadrian/main/wave.gif" width="30px">
+# Hi there 👋
 
 Lemme introduction
 ```
